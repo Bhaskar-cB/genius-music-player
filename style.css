@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn button{
+    height: 60px;
+    width: 60px;
+}
+.row input{
+    font-size: 20px;
+}
